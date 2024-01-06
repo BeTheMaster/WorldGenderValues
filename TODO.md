@@ -2,6 +2,7 @@
 ==========
 - Get a goal [x]
 - Decide on a story line [x]
+- Weher should mean calculation be explained/happen? []
 - Specify motivation (introduction) []
 - Why data source is valid? Testpower, equaly understandable questions, there papers (discussion) []
 - Create docs []
@@ -11,17 +12,19 @@
     - **violine charts** distribution and sex diffrences []
     - **line charts** Reality check []
     -  Discussion and conclusion []
+- Grammar and spelling check :) []
 
 # TODO bb
 =========
 - Readme [x] (requirements.txt [])
 - Todo [x]
 - TBD [x]
-- Polishing preprocessing WVS []
+- Polishing preprocessing WVS [x]
+- Restructure [x]
 - Violine restructure []
 - Violine added mean line + std [] 
 - Statistics []
-(- Restructure [])
+
 
 # TODO chris
 ============
@@ -30,6 +33,7 @@
 - Radar for one countries one wave Female/Male [x]
 - Radar with all countries one wave in one plot []
 - Combine plots to one overview []
+
 
 # TODO fani
 ===========
