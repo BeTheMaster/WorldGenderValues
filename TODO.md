@@ -16,7 +16,8 @@
 
 # TODO bb
 =========
-- Readme [x] (requirements.txt [])
+- Readme [x] 
+- requirements.txt []
 - Todo [x]
 - TBD [x]
 - Polishing preprocessing WVS [x]
@@ -33,6 +34,7 @@
 - Radar for one countries one wave Female/Male [x]
 - Radar with all countries one wave in one plot []
 - Combine plots to one overview []
+- Refactor radar charts into -> "02_visualize_country_characteristics.ipynb" []
 
 
 # TODO fani
@@ -43,7 +45,7 @@
 - Barplot for mean calculation [x]
 - Data preprocessing loop for radar charts [x]
 - Data collection HDR (reality) []
-- Data preprocessing HDR [] 
+- Data preprocessing HDR "01_data_cleaning:_HDR" [] 
 - Overcome limitations to make reality and opinion data comparable []
-- Line chart one country all waves ~4 questions Female/Male + reality []
+- Line chart one country all waves ~4 questions Female/Male + reality "02 Visualize reality check" []
 (- linear regression model to make a forecast/ overcome gaps/visualize importance of questions(features - beeswarm) to distinguisch country or Female/Male [])
