@@ -17,14 +17,14 @@
 # TODO bb
 =========
 - Readme [x] 
-- requirements.txt []
+- requirements.txt [] #add once at end
 - Todo [x]
 - TBD [x]
 - Polishing preprocessing WVS [x]
 - Restructure [x]
 - Violine restructure [x]
 - Violine added mean line + std [x] 
-- Statistics []
+- Statistics [x]
 
 
 # TODO chris
