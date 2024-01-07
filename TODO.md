@@ -22,8 +22,8 @@
 - TBD [x]
 - Polishing preprocessing WVS [x]
 - Restructure [x]
-- Violine restructure []
-- Violine added mean line + std [] 
+- Violine restructure [x]
+- Violine added mean line + std [x] 
 - Statistics []
 
 
