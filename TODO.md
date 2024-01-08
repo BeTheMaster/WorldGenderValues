@@ -32,9 +32,9 @@
 - Acquire 2nd data source for reality check: HDR [x]
 - Radars for all countries all waves [x]
 - Radar for one countries one wave Female/Male [x]
-- Radar with all countries one wave in one plot []
+- Radar with all countries one wave in one plot [x]
 - Combine plots to one overview []
-- Refactor radar charts into -> "02_visualize_country_characteristics.ipynb" []
+- Refactor radar charts into -> "02_visualize_country_characteristics.ipynb" [x]
 
 
 # TODO fani
