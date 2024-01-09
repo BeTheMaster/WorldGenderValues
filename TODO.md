@@ -45,7 +45,8 @@
 - Barplot for mean calculation [x]
 - Data preprocessing loop for radar charts [x]
 - Data collection HDR (reality) []
-- Data preprocessing HDR "01_data_cleaning:_HDR" [] 
+- Data preprocessing HDR "01_data_cleaning:_HDR" [x] 
 - Overcome limitations to make reality and opinion data comparable []
-- Line chart one country all waves ~4 questions Female/Male + reality "02 Visualize reality check" []
+- Line chart one country all waves ~4 questions Female/Male + reality "02 Visualize reality check" [x]
 (- linear regression model to make a forecast/ overcome gaps/visualize importance of questions(features - beeswarm) to distinguisch country or Female/Male [])
+- Inverse GII scale to better fit opinions []
