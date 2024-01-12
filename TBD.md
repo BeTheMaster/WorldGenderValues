@@ -29,7 +29,7 @@ We would prefor the latter, since our story is building up on the previous steps
 
 # Top2: We want to look at more countries (5 or 10) than we could display in the 4 pages report.
 (git repo will contain everything) 
- - a) We show just the interesting ones in detail and write about the rest []
+ - a) We show just the interesting ones in detail and write about the rest [x]
  - b) We focus on 2 max 3 countries... but then it's not a world wide anymore []
 
 # Top3: What do you think of our plot choice?
