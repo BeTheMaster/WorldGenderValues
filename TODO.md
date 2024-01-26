@@ -48,6 +48,6 @@
 - Data preprocessing HDR "01_data_cleaning:_HDR" [x] 
 - Overcome limitations to make reality and opinion data comparable [x]
 - Line chart one country all waves ~4 questions Female/Male + reality "02 Visualize reality check" [x]
-(- linear regression model to make a forecast/ overcome gaps/visualize importance of questions(features - beeswarm) to distinguisch country or Female/Male [x]
+(- linear regression model to make a forecast/ overcome gaps/visualize importance of questions(features - beeswarm) to distinguisch country or Female/Male [x])
 - Inverse GII scale to better fit opinions [x]
 - Interpolate data for plots maybe for better readability for missing data []
