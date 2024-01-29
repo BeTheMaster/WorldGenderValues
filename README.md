@@ -11,7 +11,7 @@ It is structured with the following directories:
 # How to get startet
 1. clone the repository
 2. create a new venv or use an existing one 
-3. install requirements.txt
+3. install requirements
 
 
 # References
